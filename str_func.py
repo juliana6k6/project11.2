@@ -9,3 +9,6 @@ def return_title(words):
 """
 def capitalize(words):
     return words.capitalize()
+"""
+Hello world
+"""
